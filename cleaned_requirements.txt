@@ -1,0 +1,10 @@
+torch
+transformers==4.38.2
+qwen-vl-utils
+pytesseract
+pymssql
+pandas
+opencv-python
+gradio
+sqlalchemy
+azure-storage-blob
